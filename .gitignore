@@ -1,0 +1,7 @@
+data/
+*.pth
+__pycache__/
+.idea/
+*.iml
+training_curves.png
+training_history.json
